@@ -1,0 +1,27 @@
+{
+  "name": "notbet",
+  "version": "1.0.0",
+  "description": "betting app based on smart contract and ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notbet",
+    "nodejs",
+    "truffle",
+    "ether"
+  ],
+  "author": "manav shah",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "mocha": "^8.4.0",
+    "web3": "^1.3.6"
+  }
+}
